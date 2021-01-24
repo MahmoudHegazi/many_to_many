@@ -1,6 +1,8 @@
 # many_to_many
 
-#### no need to add forgien key in product
+#### no need to add forgien key in product cus many to many 
+
+Order has product other Orders can has same product
 
 # example use in terminal
 
