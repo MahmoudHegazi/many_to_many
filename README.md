@@ -4,6 +4,11 @@
 
 Order has product other Orders can has same product
 
+
+```python
+# if you have table not assisoted
+insert_stmnt = association_table.insert().values(list_id=edit_todo.list_id,todo_id=edit_todo.id)
+```
 # example use in terminal
 
 ```
