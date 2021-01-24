@@ -1,5 +1,6 @@
 # many_to_many
 
+#### no need to add forgien key in product
 
 # example use in terminal
 
